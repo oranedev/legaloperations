@@ -22,7 +22,7 @@ InterCode utilizes data from Spider and NL2Bash datasets and evaluates multiple 
 
 Moving beyond the no-code environment, **low-code development** offers a solution that elevates coding from textual to visual, making it accessible to individuals with varying skill levels. Low-code platforms abstract and automate every step of the application lifecycle, enabling faster development and increased productivity.
 
-With low-code platforms, developers can leverage visual modeling tools to build applications easily. The platforms provide reusable components that allow for fast-track development while ensuring consistency and scalability. Collaboration tools are also incorporated into low-code platforms to streamline communication among team members during the development process.
+With [low-code platforms](https://www.mendix.com/low-code-guide), developers can leverage visual modeling tools to build applications easily. The platforms provide reusable components that allow for fast-track development while ensuring consistency and scalability. Collaboration tools are also incorporated into low-code platforms to streamline communication among team members during the development process.
 
 ## Considerations in Choosing a Platform
 
