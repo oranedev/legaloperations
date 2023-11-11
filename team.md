@@ -19,11 +19,6 @@
 - **Document Automation and Support**: Rafael
 - **Marketing and Analytics**: Angela
 
-## Notes
-- Team members with ongoing learning (like Rafael and Luis in Node.js) are assigned supporting roles in those areas.
-- Regular collaboration and knowledge sharing sessions are encouraged to foster team growth and skill development.
-- A knowledge management platform to document the workflow will be needed, to onboard new team members and provide
-  a practical learning experience
 # Team Skills and Project Alignment
 
 ## Skill Matrix
@@ -53,3 +48,7 @@
 ## Notes
 - Emphasis on Docker and source deployment for backend-focused team members.
 - PSTN setup requires backend and networking knowledge.
+- Team members with ongoing learning (like Rafael and Luis in Node.js) are assigned supporting roles in those areas.
+- Regular collaboration and knowledge sharing sessions are encouraged to foster team growth and skill development.
+- A knowledge management platform to document the workflow will be needed, to onboard new team members and provide
+  a practical learning experience
