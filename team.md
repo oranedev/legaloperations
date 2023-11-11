@@ -24,3 +24,32 @@
 - Regular collaboration and knowledge sharing sessions are encouraged to foster team growth and skill development.
 - A knowledge management platform to document the workflow will be needed, to onboard new team members and provide
   a practical learning experience
+# Team Skills and Project Alignment
+
+## Skill Matrix
+
+| Name            | Frontend (React, JS, HTML, CSS) | Backend (Node.js, Express) | Databases (SQL, MongoDB) | UI/UX Design | Docker & Deployment | PSTN Setup |
+|-----------------|---------------------------------|----------------------------|--------------------------|--------------|---------------------|------------|
+| Juan Camilo     | ✔️                               | ✔️                          |                          | ✔️           |                     |            |
+| Carla Y Nestor  | ✔️                               | ✔️                          | ✔️                       |              | ✔️                  |            |
+| Rafael          | ✔️ (Learning)                   | ✔️ (Learning)               | ✔️                       |              |                     |            |
+| Luis            |                                 | ✔️                          | ✔️                       |              | ✔️                  |            |
+| Angela          | ✔️                               |                             |                          | ✔️           |                     |            |
+
+## Project Tasks Alignment
+
+- **Frontend Development**: Juan Camilo, Angela
+- **Backend Development & Docker Deployment**: Carla Y Nestor, Luis
+- **Database Management**: Carla Y Nestor, Rafael, Luis
+- **UI/UX Design**: Angela, Juan Camilo
+- **PSTN Setup**: Carla Y Nestor, Luis (Considering their backend and deployment experience)
+
+## Agora Documentation References
+
+- [Deploy Using Docker](https://appbuilder-docs.agora.io/turn-key/guides/Backend/Deploy-Using-Docker)
+- [Deploy from Source](https://appbuilder-docs.agora.io/turn-key/guides/Backend/Deploy-from-Source)
+- [How to Setup PSTN](https://appbuilder-docs.agora.io/turn-key/guides/Backend/How-to-Setup-PSTN)
+
+## Notes
+- Emphasis on Docker and source deployment for backend-focused team members.
+- PSTN setup requires backend and networking knowledge.
