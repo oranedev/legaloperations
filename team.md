@@ -5,7 +5,7 @@
 | Name            | Skills and Expertise               | Assigned Roles and Responsibilities          |
 |-----------------|------------------------------------|----------------------------------------------|
 | Juan Camilo     | JavaScript, React, Express, Node.js, CSS, Figma, Illustrator, Photoshop | Frontend Development, UI/UX Design           |
-| Carla Y Nestor  | JS, React, Node, Sequelize, MySQL, PostgreSQL, SQLite, JAVA, Spring, Electron, AWS | Backend Development, Database Management     |
+|  Nestor  | JS, React, Node, Sequelize, MySQL, PostgreSQL, SQLite, JAVA, Spring, Electron, AWS | Backend Development, Database Management     |
 | Rafael          | Java, JS, EJS, SQL, MongoDB, Learning React and Node.js | Learning and Support, Document Automation    |
 | Luis            | Java, JS, Python, R, Scala, SQL, NoSQL, Learning Ruby and Node.js | Database Management, Backend Support         |
 | Angela          | Graphic Design, Photoshop, Illustrator, HTML, CSS, React, JavaScript, Node, Express, MySQL, Python, Google Ads, Analytics, SEO | UI/UX Design, Frontend Support, Marketing    |
@@ -13,9 +13,9 @@
 ## Key Project Areas
 
 - **Frontend Development**: Juan Camilo, Angela
-- **Backend Development**: Carla Y Nestor, Luis
+- **Backend Development**:  Nestor, Luis
 - **UI/UX Design**: Angela, Juan Camilo
-- **Database Management**: Carla Y Nestor, Rafael, Luis
+- **Database Management**: Nestor, Rafael, Luis
 - **Document Automation and Support**: Rafael
 - **Marketing and Analytics**: Angela
 
@@ -26,7 +26,7 @@
 | Name            | Frontend (React, JS, HTML, CSS) | Backend (Node.js, Express) | Databases (SQL, MongoDB) | UI/UX Design | Docker & Deployment | PSTN Setup |
 |-----------------|---------------------------------|----------------------------|--------------------------|--------------|---------------------|------------|
 | Juan Camilo     | ✔️                               | ✔️                          |                          | ✔️           |                     |            |
-| Carla Y Nestor  | ✔️                               | ✔️                          | ✔️                       |              | ✔️                  |            |
+|  Nestor  | ✔️                               | ✔️                          | ✔️                       |              | ✔️                  |            |
 | Rafael          | ✔️ (Learning)                   | ✔️ (Learning)               | ✔️                       |              |                     |            |
 | Luis            |                                 | ✔️                          | ✔️                       |              | ✔️                  |            |
 | Angela          | ✔️                               |                             |                          | ✔️           |                     |            |
@@ -34,10 +34,10 @@
 ## Project Tasks Alignment
 
 - **Frontend Development**: Juan Camilo, Angela
-- **Backend Development & Docker Deployment**: Carla Y Nestor, Luis
-- **Database Management**: Carla Y Nestor, Rafael, Luis
+- **Backend Development & Docker Deployment**:  Nestor, Luis
+- **Database Management**: Nestor, Rafael, Luis
 - **UI/UX Design**: Angela, Juan Camilo
-- **PSTN Setup**: Carla Y Nestor, Luis (Considering their backend and deployment experience)
+- **PSTN Setup**: Nestor, Luis (Considering their backend and deployment experience)
 
 ## Agora Documentation References
 
