@@ -1,4 +1,4 @@
-# Project Team Contributions
+A# Project Team Contributions
 
 ## Team Overview
 
@@ -38,6 +38,35 @@
 - **Database Management**: Nestor, Rafael, Luis
 - **UI/UX Design**: Angela, Juan Camilo
 - **PSTN Setup**: Nestor, Luis (Considering their backend and deployment experience)
+
+## Agora Customization
+
+ **Juan Camilo**:
+
+- Components API: Frontend customization using React.
+- Sub-Component Library: Implementing UI components.
+- Custom Events Library: Handling frontend events.
+
+**Nestor**:
+
+- Actions Library: Backend actions for customized components.
+- Config Library: Backend configuration for custom components.
+- Utility Library: Utilize utility functions for backend processes.
+
+**Rafael**:
+
+- I18N API: Assist in internationalization features as he learns React.
+- App State Library: Support in managing app states.
+
+**Luis**:
+
+- Types: Utilize his database skills for type definitions in backend development.
+- Config Library: Assist in backend configurations.
+
+**Angela**:
+
+- UI/UX Design: Use her design skills for customizing components and sub-components.
+- Custom Events Library: Assist in designing event-driven user interactions.
 
 ## Agora Documentation References
 
