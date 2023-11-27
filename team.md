@@ -4,7 +4,7 @@ A# Project Team Contributions
 
 | Name            | Skills and Expertise               | Assigned Roles and Responsibilities          |
 |-----------------|------------------------------------|----------------------------------------------|
-| Juan Camilo     | JavaScript, React, Express, Node.js, CSS, Figma, Illustrator, Photoshop | Frontend Development, UI/UX Design           |
+      |
 |  Nestor  | JS, React, Node, Sequelize, MySQL, PostgreSQL, SQLite, JAVA, Spring, Electron, AWS | Backend Development, Database Management     |
 | Rafael          | Java, JS, EJS, SQL, MongoDB, Learning React and Node.js | Learning and Support, Document Automation    |
 | Luis            | Java, JS, Python, R, Scala, SQL, NoSQL, Learning Ruby and Node.js | Database Management, Backend Support         |
@@ -12,40 +12,39 @@ A# Project Team Contributions
 
 ## Key Project Areas
 
-- **Frontend Development**: Juan Camilo, Angela
+- **Frontend Development**: Angela
 - **Backend Development**:  Nestor, Luis
-- **UI/UX Design**: Angela, Juan Camilo
+- **UI/UX Design**: Angela
 - **Database Management**: Nestor, Rafael, Luis
 - **Document Automation and Support**: Rafael
 - **Marketing and Analytics**: Angela
-
 # Team Skills and Project Alignment
 
 ## Skill Matrix
 
-| Name            | Frontend (React, JS, HTML, CSS) | Backend (Node.js, Express) | Databases (SQL, MongoDB) | UI/UX Design | Docker & Deployment | PSTN Setup |
-|-----------------|---------------------------------|----------------------------|--------------------------|--------------|---------------------|------------|
-| Juan Camilo     | ✔️                               | ✔️                          |                          | ✔️           |                     |            |
-|  Nestor  | ✔️                               | ✔️                          | ✔️                       |              | ✔️                  |            |
-| Rafael          | ✔️ (Learning)                   | ✔️ (Learning)               | ✔️                       |              |                     |            |
-| Luis            |                                 | ✔️                          | ✔️                       |              | ✔️                  |            |
-| Angela          | ✔️                               |                             |                          | ✔️           |                     |            |
+| Name           | Frontend (React, JS, HTML, CSS) | Backend (Node.js, Express) | Databases (SQL, MongoDB) | UI/UX Design | Docker & Deployment | PSTN Setup |
+|----------------|---------------------------------|----------------------------|--------------------------|--------------|---------------------|------------|
+| Carla Y Nestor | ✔️                               | ✔️                          | ✔️                       |              | ✔️                  |            |
+| Rafael         | ✔️ (Learning)                   | ✔️ (Learning)               | ✔️                       |              |                     |            |
+| Luis           |                                 | ✔️                          | ✔️                       |              | ✔️                  |            |
+| Angela         | ✔️                               |                             |                          | ✔️           |                     |            |
 
-## Project Tasks Alignment
+## Updated Project Tasks Alignment
 
-- **Frontend Development**: Juan Camilo, Angela
-- **Backend Development & Docker Deployment**:  Nestor, Luis
-- **Database Management**: Nestor, Rafael, Luis
-- **UI/UX Design**: Angela, Juan Camilo
-- **PSTN Setup**: Nestor, Luis (Considering their backend and deployment experience)
+- **Frontend Development**: Angela, Rafael (Support)
+- **Backend Development & Docker Deployment**: Carla Y Nestor, Luis
+- **Database Management**: Carla Y Nestor, Rafael, Luis
+- **UI/UX Design**: Angela
+- **PSTN Setup**: Carla Y Nestor, Luis
+
+## Notes
+
+- Rafael, with his ongoing learning in React and Node.js, can take on more frontend responsibilities with support from Angela.
+- Carla Y Nestor and Luis will handle more significant parts of backend development and deployment.
+- UI/UX design will now be solely Angela's responsibility.
 
 ## Agora Customization
 
- **Juan Camilo**:
-
-- Components API: Frontend customization using React.
-- Sub-Component Library: Implementing UI components.
-- Custom Events Library: Handling frontend events.
 
 **Nestor**:
 
