@@ -8,16 +8,16 @@ A# Project Team Contributions
 |  Nestor  | JS, React, Node, Sequelize, MySQL, PostgreSQL, SQLite, JAVA, Spring, Electron, AWS | Backend Development, Database Management     |
 | Rafael          | Java, JS, EJS, SQL, MongoDB, Learning React and Node.js | Learning and Support, Document Automation    |
 | Luis            | Java, JS, Python, R, Scala, SQL, NoSQL, Learning Ruby and Node.js | Database Management, Backend Support         |
-| Angela          | Graphic Design, Photoshop, Illustrator, HTML, CSS, React, JavaScript, Node, Express, MySQL, Python, Google Ads, Analytics, SEO | UI/UX Design, Frontend Support, Marketing    |
+| Bianca         | Graphic Design, Photoshop, Illustrator, HTML, CSS, React, JavaScript, Node, Express, MySQL, Python, Google Ads, Analytics, SEO | UI/UX Design, Frontend Support, Marketing    |
 
 ## Key Project Areas
 
-- **Frontend Development**: Angela
+- **Frontend Development**: Bianca
 - **Backend Development**:  Nestor, Luis
 - **UI/UX Design**: Angela
 - **Database Management**: Nestor, Rafael, Luis
 - **Document Automation and Support**: Rafael
-- **Marketing and Analytics**: Angela
+- **Marketing and Analytics**: Bianca
 # Team Skills and Project Alignment
 
 ## Skill Matrix
@@ -27,11 +27,11 @@ A# Project Team Contributions
 | Carla Y Nestor | ✔️                               | ✔️                          | ✔️                       |              | ✔️                  |            |
 | Rafael         | ✔️ (Learning)                   | ✔️ (Learning)               | ✔️                       |              |                     |            |
 | Luis           |                                 | ✔️                          | ✔️                       |              | ✔️                  |            |
-| Angela         | ✔️                               |                             |                          | ✔️           |                     |            |
+| Bianca         | ✔️                               |                             |                          | ✔️           |                     |            |
 
 ## Updated Project Tasks Alignment
 
-- **Frontend Development**: Angela, Rafael (Support)
+- **Frontend Development**: Bianca, Rafael (Support)
 - **Backend Development & Docker Deployment**: Carla Y Nestor, Luis
 - **Database Management**: Carla Y Nestor, Rafael, Luis
 - **UI/UX Design**: Angela
@@ -39,7 +39,7 @@ A# Project Team Contributions
 
 ## Notes
 
-- Rafael, with his ongoing learning in React and Node.js, can take on more frontend responsibilities with support from Angela.
+- Rafael, with his ongoing learning in React and Node.js, can take on more frontend responsibilities with support from Bianca.
 - Carla Y Nestor and Luis will handle more significant parts of backend development and deployment.
 - UI/UX design will now be solely Angela's responsibility.
 
@@ -62,7 +62,7 @@ A# Project Team Contributions
 - Types: Utilize his database skills for type definitions in backend development.
 - Config Library: Assist in backend configurations.
 
-**Angela**:
+**Bianca**:
 
 - UI/UX Design: Use her design skills for customizing components and sub-components.
 - Custom Events Library: Assist in designing event-driven user interactions.
