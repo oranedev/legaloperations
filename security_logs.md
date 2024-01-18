@@ -1,5 +1,5 @@
 # Data Flow: Bubble ➡️ Azure Blob Storage ➡️ Elasticsearch
-This document outlines the data flow for tracking and visualizing security logs, from their creation in Bubble to their visualization in Kibana.
+Data flow for tracking and visualizing security logs, from their creation in Bubble to their visualization in Kibana.
 
 ## 🛠 Data Creation in Bubble
 - **User Interaction**: Users interact with your Bubble application, generating security logs. 🧑‍💻
@@ -23,6 +23,6 @@ This document outlines the data flow for tracking and visualizing security logs,
 
 ---
 
-> 💡 **Tip**: Always ensure you are following best practices for data security and compliance.
+> 💡 **Tip**: Always ensure we are following best practices for data security and compliance.
 
 > 🔗 **Resources**: [Bubble Documentation](#), [Azure Blob Storage](#), [Elasticsearch](#), [Kibana](#)
