@@ -90,3 +90,5 @@ Breaking down the technology stack for enhancing the security posture of the dat
 
 This tech stack provides a comprehensive security posture, covering aspects from front-end application security in Bubble to secure data storage and management in Azure Blob Storage, efficient data transfer with AzCopy, data processing and visualization with Elasticsearch and Kibana, and robust Azure security tools and features.
 
+https://medium.com/@aali23/a-simple-elastic-siem-lab-6765159ee2b2
+
